@@ -1,4 +1,4 @@
-# Data Science Consulting Projects
+#Data Science Consulting Projects
 
 This repository contains my independent data science projects focusing on solving real-world business problems using data-driven solutions.
 
@@ -29,3 +29,11 @@ This repository contains my independent data science projects focusing on solvin
 │   └── utils/         # Utility functions
 ├── tests/             # Unit tests
 └── docs/              # Documentation
+```
+
+## 🚧 Development Status
+Active development – Setting up infrastructure
+
+## 📝 Setup Notes
+- **Python environment setup** [Coming soon]
+- **AWS configuration** [Coming soon]
