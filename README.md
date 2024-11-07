@@ -20,10 +20,12 @@ This repository contains my independent data science projects focusing on solvin
 ## 📊 Project Structure
 ```tree
 ├── notebooks/          # Jupyter notebooks
+│   ├── 01_exploratory_analysis/  # Exploratory data analysis
+│   ├── 02_modeling/              # Model building and training
+│   └── 03_evaluation/            # Model evaluation
 ├── src/               # Source code
 │   ├── data/          # Data processing
 │   ├── models/        # ML models
 │   └── utils/         # Utility functions
 ├── tests/             # Unit tests
 └── docs/              # Documentation
-
