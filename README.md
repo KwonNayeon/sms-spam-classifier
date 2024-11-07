@@ -1,4 +1,4 @@
-#Data Science Consulting Projects
+# Data Science Consulting Projects
 
 This repository contains my independent data science projects focusing on solving real-world business problems using data-driven solutions.
 
