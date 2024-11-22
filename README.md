@@ -1,4 +1,4 @@
-# Data Science Consulting Solutions
+# Data Science Consulting Projects
 This repository contains my independent data science projects focusing on solving real-world business problems using data-driven solutions.
 
 ## 🎯 Current Project: Modern Spam Detection
