@@ -34,20 +34,22 @@ Motivated by personal experiences with subtle spam across various platforms (mes
 ```tree
 /data-science-consulting-solutions
 │
-├── README.md                 # Project overview and basic information
-├── vs_code_setup.md
-├── notebooks/          # Jupyter notebooks
+├── README.md                    # Project overview and basic information
+├── LICENSE                       # License file for the project
+├── requirements.txt              # Python package dependencies
+├── vs_code_setup.md              # VS Code setup guide
+├── notebooks/                    # Jupyter notebooks
 │   ├── 01_exploratory_analysis/  # Exploratory data analysis
 │   ├── 02_modeling/              # Model building and training
 │   └── 03_evaluation/            # Model evaluation
-├── src/               # Source code
-│   ├── data/          # Data processing
-│   ├── models/        # ML models
-│   └── utils/         # Utility functions
-├── tests/             # Unit tests
-└── docs/              # Documentation
-    ├── motivation.md  # Detailed project motivation
-    └── design.md      # System design decisions
+├── src/                          # Source code
+│   ├── data/                     # Data processing
+│   ├── models/                   # ML models
+│   └── utils/                    # Utility functions
+├── tests/                        # Unit tests
+└── docs/                         # Documentation
+    ├── motivation.md             # Detailed project motivation
+    └── design.md                 # System design decisions
 ```
 
 ## 🎯 Current Focus
