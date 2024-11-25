@@ -88,6 +88,6 @@ pip freeze > requirements.txt
 For detailed instructions on setting up your environment in VS Code, refer to the [`vs_code_setup.md`](vs_code_setup.md) guide.
 
 ## 📚 Documentation
-See [`docs/motivation.md`](docs/motivation.md) for detailed project background and vision.
+- See [`docs/motivation.md`](docs/motivation.md) for detailed project background and vision.
 ---
 *This project is part of my journey to become a data scientist who solves real-world problems through innovative data-driven solutions.*
