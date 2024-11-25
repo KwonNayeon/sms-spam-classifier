@@ -32,6 +32,10 @@ Motivated by personal experiences with subtle spam across various platforms (mes
 
 ## 📊 Project Structure
 ```tree
+/data-science-consulting-solutions
+│
+├── README.md                 # Project overview and basic information
+├── vs_code_setup.md
 ├── notebooks/          # Jupyter notebooks
 │   ├── 01_exploratory_analysis/  # Exploratory data analysis
 │   ├── 02_modeling/              # Model building and training
@@ -60,48 +64,28 @@ Initial Planning Phase:
 
 ## 📝 Setup Notes
 - **Python environment setup**
-    1. Create virtual environment
-    ```bash
-    python -m venv spam_detector_env
-    ```
-    2. Activate virtual environment
-    ```bash
-    # Windows
-    spam_detector_env\Scripts\activate
-    # Mac/Linux
-    source spam_detector_env/bin/activate
-    ```
-    3. Install dependencies
-    ```bash
-    pip install numpy pandas scikit-learn jupyter
-    pip freeze > requirements.txt
-    ```
+1. Create virtual environment
+```bash
+python -m venv spam_detector_env
+```
+2. Activate virtual environment
+```bash
+# Windows
+spam_detector_env\Scripts\activate
+# Mac/Linux
+source spam_detector_env/bin/activate
+```
+3. Install dependencies
+```bash
+pip install numpy pandas scikit-learn jupyter
+pip freeze > requirements.txt
+```
 - **AWS configuration** [Coming soon]
 - **Data collection guidelines** [Coming soon]
 
-## VS Code Setup
-1. Install recommended extensions
-   - VS Code will automatically prompt you to install recommended extensions when you open the project
-   - Alternatively, go to Extensions view (Ctrl+Shift+X) and search for "@recommended"
-
-2. Select Python Interpreter
-   - Press Ctrl+Shift+P
-   - Type "Python: Select Interpreter"
-   - Choose the interpreter from spam_detector_env
-
-3. Setup Jupyter Notebook
-   - Install ipykernel: `pip install ipykernel`
-   - Select kernel from spam_detector_env when opening notebooks
-
-4. Useful VS Code Shortcuts
-   - Ctrl+Shift+P: Command Palette
-   - F5: Start Debugging
-   - Ctrl+Shift+`: New Terminal
-   - Ctrl+Shift+M: Problems Panel
-   - Ctrl+Shift+D: Debug Panel
+For detailed instructions on setting up your environment in VS Code, refer to the [`vs_code_setup.md`](vs_code_setup.md) guide.
 
 ## 📚 Documentation
 See [`docs/motivation.md`](docs/motivation.md) for detailed project background and vision.
-
 ---
 *This project is part of my journey to become a data scientist who solves real-world problems through innovative data-driven solutions.*
