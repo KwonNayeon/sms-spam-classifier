@@ -59,7 +59,7 @@ Initial Planning Phase:
 - Planning data collection strategy
 
 ## 📝 Setup Notes
-- **Python environment setup** [Coming soon]
+- **Python environment setup**
     1. Create virtual environment
     ```bash
     python -m venv spam_detector_env
@@ -76,13 +76,10 @@ Initial Planning Phase:
     pip install numpy pandas scikit-learn jupyter
     pip freeze > requirements.txt
     ```
-   * **AWS configuration** [Coming soon]
-   * **Data collection guidelines** [Coming soon]
 - **AWS configuration** [Coming soon]
 - **Data collection guidelines** [Coming soon]
 
 ## VS Code Setup
-
 1. Install recommended extensions
    - VS Code will automatically prompt you to install recommended extensions when you open the project
    - Alternatively, go to Extensions view (Ctrl+Shift+X) and search for "@recommended"
