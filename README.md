@@ -49,7 +49,8 @@ Motivated by personal experiences with subtle spam across various platforms (mes
 ├── tests/                        # Unit tests
 └── docs/                         # Documentation
     ├── motivation.md             # Detailed project motivation
-    └── design.md                 # System design decisions
+    ├── design.md                 # System design decisions
+    └── api_documentation.md      # API documentation
 ```
 
 ## 🎯 Current Focus
@@ -89,5 +90,7 @@ For detailed instructions on setting up your environment in VS Code, refer to th
 
 ## 📚 Documentation
 - See [`docs/motivation.md`](docs/motivation.md) for detailed project background and vision.
+- For API details, see [`docs/api_documentation.md`](docs/api_documentation.md).
+- For system design details, see [`docs/design.md`](docs/design.md).
 ---
 *This project is part of my journey to become a data scientist who solves real-world problems through innovative data-driven solutions.*
