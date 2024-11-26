@@ -85,7 +85,7 @@ pip freeze > requirements.txt
 
 For detailed instructions on setting up your environment in VS Code, refer to the [`vs_code_setup.md`](vs_code_setup.md) guide.
 
-## Dataset
+## 📁 Dataset
 - The dataset used for this project is the **UCI SMS Spam Collection Dataset**, which is publicly available on Kaggle.
 - The dataset contains SMS messages labeled as **spam** or **ham**.
 - For details on how to access and use the dataset, please refer to the [`src/data/README.md`](src/data/README.md) file.
