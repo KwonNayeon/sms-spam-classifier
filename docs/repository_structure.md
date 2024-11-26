@@ -17,6 +17,7 @@ The structure of this project is as follows:
 │   └── 03_evaluation/                    # Model evaluation
 ├── src/                                   # Source code for the project
 │   ├── data/                              # Data processing and manipulation
+│   │   ├── README.md                      # Explanation of the data processing and structure
 │   ├── models/                            # Machine learning models and algorithms
 │   ├── utils/                             # Utility functions (e.g., data loaders, helpers)
 │   │   ├── __init__.py                    # Initialization file for utils module

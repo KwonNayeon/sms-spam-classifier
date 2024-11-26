@@ -88,7 +88,7 @@ For detailed instructions on setting up your environment in VS Code, refer to th
 ## Dataset
 - The dataset used for this project is the **UCI SMS Spam Collection Dataset**, which is publicly available on Kaggle.
 - The dataset contains SMS messages labeled as **spam** or **ham**.
-- For details on how to access and use the dataset, please refer to the [`data/README.md`](src/data/README.md) file.
+- For details on how to access and use the dataset, please refer to the [`src/data/README.md`](src/data/README.md) file.
 
 ## 📚 Documentation
 - See [`docs/motivation.md`](docs/motivation.md) for detailed project background and vision.
