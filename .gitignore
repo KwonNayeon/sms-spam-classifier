@@ -164,4 +164,4 @@ cython_debug/
 spam_detector_env/
 
 # Ignore spam.csv
-data/spam.csv
+src/data/spam.csv
