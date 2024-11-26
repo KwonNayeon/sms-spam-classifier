@@ -48,9 +48,6 @@ Motivated by personal experiences with subtle spam across various platforms (mes
 │   └── utils/                    # Utility functions
 ├── tests/                        # Unit tests
 └── docs/                         # Documentation
-    ├── motivation.md             # Detailed project motivation
-    ├── design.md                 # System design decisions
-    └── api_documentation.md      # API documentation
 ```
 
 ## 🎯 Current Focus
@@ -88,9 +85,15 @@ pip freeze > requirements.txt
 
 For detailed instructions on setting up your environment in VS Code, refer to the [`vs_code_setup.md`](vs_code_setup.md) guide.
 
+## Dataset
+- The dataset used for this project is the **UCI SMS Spam Collection Dataset**, which is publicly available on Kaggle.
+- The dataset contains SMS messages labeled as **spam** or **ham**.
+- For details on how to access and use the dataset, please refer to the [`data/README.md`](data/README.md) file.
+
 ## 📚 Documentation
 - See [`docs/motivation.md`](docs/motivation.md) for detailed project background and vision.
 - For API details, see [`docs/api_documentation.md`](docs/api_documentation.md).
 - For system design details, see [`docs/design.md`](docs/design.md).
+- For an explanation of the project structure, see [`docs/repository_structure.md`](docs/repository_structure.md).
 ---
 *This project is part of my journey to become a data scientist who solves real-world problems through innovative data-driven solutions.*
