@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This repository contains my independent data science projects focusing on solving real-world business problems using data-driven solutions.
+Collection of my data science projects focusing on ML implementations and text analysis.
 
 ## 🎯 Current Project: SMS Spam Detection
 This project aims to develop a spam detection system using machine learning techniques. Currently focusing on building and improving baseline models for binary classification of SMS messages.
