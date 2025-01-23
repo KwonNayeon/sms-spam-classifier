@@ -1,26 +1,37 @@
 # VS Code Setup Guide
+This guide explains how to set up your development environment in VS Code.
 
-Follow these steps to configure your development environment in VS Code.
+## 1. Virtual Environment Setup
+1. Create virtual environment (in project root directory):
+   ```bash
+   python -m venv spam_detector_env
+   ```
 
-## 1. Install Recommended Extensions
-   - VS Code will automatically prompt you to install recommended extensions when you open the project.
-   - Alternatively, go to Extensions view (Ctrl+Shift+X) and search for "@recommended".
-
-## 2. Select Python Interpreter
-   - Press Ctrl+Shift+P
-   - Type "Python: Select Interpreter"
-   - Choose the interpreter from `spam_detector_env`.
-
-## 3. Set Up Jupyter Notebook
-   - Install `ipykernel`: 
+2. Activate virtual environment:
+   - Windows:
      ```bash
-     pip install ipykernel
+     spam_detector_env\Scripts\activate
      ```
-   - Select the kernel from `spam_detector_env` when opening notebooks.
+   - Mac/Linux:
+     ```bash
+     source spam_detector_env/bin/activate
+     ```
+
+3. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## 2. VS Code Interpreter Setup
+1. Press `Ctrl+Shift+P` (Open Command Palette)
+2. Type "Python: Select Interpreter"
+3. Choose interpreter from `spam_detector_env`
+
+## 3. Jupyter Notebook Setup
+- Open notebook file (.ipynb)
+- Select `spam_detector_env` kernel from the kernel picker in top right
 
 ## 4. Useful VS Code Shortcuts
-   - Ctrl+Shift+P: Command Palette
-   - F5: Start Debugging
-   - Ctrl+Shift+`: New Terminal
-   - Ctrl+Shift+M: Problems Panel
-   - Ctrl+Shift+D: Debug Panel
+- Ctrl+Shift+P: Command Palette
+- Ctrl+Shift+`: New Terminal
+- Ctrl+S: Save
