@@ -6,7 +6,7 @@ Part of my data science portfolio - Building a machine learning system for binar
 Developing a spam detection system using ML techniques, currently focusing on establishing strong baseline models and evaluation metrics.
 
 ### Motivation
-The project starts with traditional binary spam classification to establish strong baseline models before moving on to more sophisticated approaches. This systematic approach will help understand core spam detection challenges and establish reliable evaluation metrics.
+This project builds on prior work in text analysis (e.g., [Word Cloud Visualization](https://nayeonkwonds.medium.com/deep-dive-into-word-cloud-creation-c2fc7fc09c12), [Travel Blog Analysis](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed)) and classification (e.g., [SME Closure Prediction](https://github.com/KwonNayeon/numble)). It establishes a solid foundation before diving into more sophisticated techniques, starting with strong baseline models and robust evaluation metrics to develop a deep understanding of the core challenges in classification.
 
 ## 🛠 Tech Stack
 ### Current
