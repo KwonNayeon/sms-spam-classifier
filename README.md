@@ -1,4 +1,4 @@
-# SMS Spam Detection System
+# SMS Spam Detection Project
 
 Part of my data science portfolio - Building a machine learning system for binary classification of SMS messages.
 
