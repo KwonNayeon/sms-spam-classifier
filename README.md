@@ -1,8 +1,9 @@
-# Data Science Portfolio
-Collection of my data science projects focusing on ML implementations and text analysis.
+# SMS Spam Detection System
 
-## 🎯 Current Project: SMS Spam Detection
-This project aims to develop a spam detection system using machine learning techniques. Currently focusing on building and improving baseline models for binary classification of SMS messages.
+Part of my data science portfolio - Building a machine learning system for binary classification of SMS messages.
+
+## Project Overview
+Developing a spam detection system using ML techniques, currently focusing on establishing strong baseline models and evaluation metrics.
 
 ### Motivation
 The project starts with traditional binary spam classification to establish strong baseline models before moving on to more sophisticated approaches. This systematic approach will help understand core spam detection challenges and establish reliable evaluation metrics.
