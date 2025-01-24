@@ -1,19 +1,16 @@
-# Project Motivation and Vision
+# SMS Spam Detection Project
 
 ## Background
-This project focuses on developing a spam detection system for SMS messages. While SMS spam might seem like a solved problem, it remains relevant for building foundational skills in NLP and classification tasks.
+This project develops a spam detection system for SMS messages to build foundational NLP and classification skills.
 
 ## Problem Statement
-The challenge is to create an effective binary classifier for SMS messages that:
-- Accurately distinguishes between spam and legitimate messages
-- Handles class imbalance effectively
+Create a binary classifier for SMS messages that:
+- Accurately identifies spam vs legitimate messages
+- Handles class imbalance
 - Provides interpretable results
 
 ## Personal Motivation
-This project serves as:
-- A practical application of machine learning concepts
-- An introduction to NLP tasks
-- A foundation for more complex classification problems
+Building on experience from text analysis projects ([Word Cloud Visualization](https://nayeonkwonds.medium.com/deep-dive-into-word-cloud-creation-c2fc7fc09c12), [Travel Blog Analysis](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed)) and binary classification work ([SME Closure Prediction](https://github.com/KwonNayeon/numble)), this project aims to deepen NLP expertise and classification techniques. The goal is to expand practical knowledge in text processing, model evaluation, and implementation of various classification approaches.
 
 ## Current Objectives
 1. Build and evaluate baseline models
@@ -28,9 +25,9 @@ This project serves as:
 - Document findings and insights
 
 ## Future Extensions
-After establishing strong baseline performance:
+After establishing baseline performance:
 - Experiment with advanced NLP techniques
-- Explore more sophisticated model architectures
+- Explore sophisticated model architectures
 - Consider multi-platform applications
 
-This project aims to build a strong foundation in text classification while maintaining room for future enhancements and applications.
+This project aims to build strong foundations in text classification while allowing for future enhancements.
