@@ -13,21 +13,23 @@ Create a binary classifier for SMS messages that:
 Building on experience from text analysis projects (e.g., [Word Cloud Visualization](https://nayeonkwonds.medium.com/deep-dive-into-word-cloud-creation-c2fc7fc09c12), [Travel Blog Analysis](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed)) and binary classification work (e.g., [SME Closure Prediction](https://github.com/KwonNayeon/numble)), this project aims to deepen NLP expertise and classification techniques. The goal is to expand practical knowledge in text processing, model evaluation, and implementation of various classification approaches.
 
 ## Current Objectives
-1. Build and evaluate baseline models
+1. Build and evaluate baseline models ✓
+   * Implemented Logistic Regression and Random Forest
 2. Address class imbalance challenges
-3. Implement effective text preprocessing
-4. Compare different model approaches
+3. Implement text preprocessing ✓
+   * Basic cleaning completed
+4. Compare model approaches ✓
+   * Initial comparison completed
 
 ## Development Approach
-- Start with simple, interpretable models
-- Focus on solid evaluation metrics
-- Iterative improvement based on results
-- Document findings and insights
+- Start with simple models ✓
+- Focus on evaluation metrics ✓
+- Iterative improvement
+- Document findings
 
 ## Future Extensions
-After establishing baseline performance:
 - Experiment with advanced NLP techniques
-- Explore sophisticated model architectures
+- Explore sophisticated architectures
 - Consider multi-platform applications
 
 This project aims to build strong foundations in text classification while allowing for future enhancements.
