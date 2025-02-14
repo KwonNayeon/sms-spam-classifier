@@ -29,7 +29,7 @@ This project builds on prior work in text analysis (e.g., [Word Cloud Visualizat
 │   ├── 02_modeling/            # Model building and training
 │   └── 03_evaluation/          # Model evaluation
 ├── src/                        # Source code
-│   ├── data/                   # Data processing
+│   ├── data/                   # Data
 │   ├── models/                 # ML models
 │   └── utils/                  # Utility functions
 ├── tests/                      # Unit tests
