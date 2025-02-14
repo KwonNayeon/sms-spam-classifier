@@ -38,12 +38,12 @@ This project builds on prior work in text analysis (e.g., [Word Cloud Visualizat
 
 ## 🚧 Current Progress
 - Implemented initial baseline models using different approaches:
- * Count Vectorizer + Logistic Regression
- * TF-IDF + Random Forest
+  - Count Vectorizer + Logistic Regression
+  - TF-IDF + Random Forest
 - Conducted comprehensive EDA including:
- * Text complexity analysis
- * Word patterns visualization
- * Sentence structure analysis
+  - Text complexity analysis
+  - Word patterns visualization
+  - Sentence structure analysis
 - Basic text preprocessing and model evaluation completed
 
 ## 📝 Next Steps
