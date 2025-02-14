@@ -13,7 +13,7 @@ This project builds on prior work in text analysis (e.g., [Word Cloud Visualizat
 - Python 3.9.13
 - **Data Processing**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn
-- **NLP**: NLTK
+- **NLP**: NLTK, WordCloud
 - **Data Visualization**: Matplotlib, Seaborn
 
 ## 📊 Project Structure
