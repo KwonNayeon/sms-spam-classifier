@@ -12,14 +12,14 @@ The structure of this project is as follows:
 ├── notebooks/                     # Jupyter notebooks
 │   ├── 01_exploratory_analysis/  # EDA (planned)
 │   ├── 02_modeling/              # Model development
-│   │   └── 01_baseline_model.ipynb  # Current baseline model
+│   │   └── 01_baseline_model.ipynb  # Baseline model
 │   └── 03_evaluation/           # Model evaluation (planned)
 ├── src/                         # Source code directory
 │   ├── data/                    # Data
 │   │   └── README.md           # Data documentation
 │   ├── models/                 # ML models (planned)
 │   └── utils/                  # Utility functions 
-│       ├── __init__.py         # Package initialization
+│       ├── __init__.py         # Package initialization (to be implemented)
 │       ├── data_loader.py      # Data loading utilities (to be implemented)
 │       └── preprocessor.py     # Preprocessing utilities (to be implemented)
 ├── tests/                      # Unit tests (planned)
