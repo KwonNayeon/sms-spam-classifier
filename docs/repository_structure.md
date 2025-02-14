@@ -15,8 +15,8 @@ The structure of this project is as follows:
 │   │   └── 01_baseline_model.ipynb  # Current baseline model
 │   └── 03_evaluation/           # Model evaluation (planned)
 ├── src/                         # Source code directory
-│   ├── data/                    # Dataset storage
-│   │   └── README.md           # Dataset documentation
+│   ├── data/                    # Data
+│   │   └── README.md           # Data documentation
 │   ├── models/                 # ML models (planned)
 │   └── utils/                  # Utility functions 
 │       ├── __init__.py         # Package initialization
@@ -28,3 +28,4 @@ The structure of this project is as follows:
    ├── design.md             # System design (planned)
    ├── repository_structure.md # Project structure explanation
    └── api_documentation.md   # API documentation (planned)
+```
