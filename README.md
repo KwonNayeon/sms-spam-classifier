@@ -37,15 +37,19 @@ This project builds on prior work in text analysis (e.g., [Word Cloud Visualizat
 ```
 
 ## 🚧 Current Progress
-- Implemented initial baseline models (Logistic Regression, Random Forest)
-- Basic text preprocessing and feature extraction
-- Initial model evaluation completed
+- Implemented initial baseline models using different approaches:
+ * Count Vectorizer + Logistic Regression
+ * TF-IDF + Random Forest
+- Conducted comprehensive EDA including:
+ * Text complexity analysis
+ * Word patterns visualization
+ * Sentence structure analysis
+- Basic text preprocessing and model evaluation completed
 
 ## 📝 Next Steps
-- Improve model performance by addressing class imbalance
-- Enhance text preprocessing techniques
-- Implement feature engineering
-- Document findings and insights
+1. Model Performance Improvement
+2. Code Structure Enhancement
+3. EDA Expansion
 
 ## 📁 Dataset
 - Using the UCI SMS Spam Collection Dataset from Kaggle
