@@ -165,3 +165,6 @@ spam_detector_env/
 
 # Ignore spam.csv
 src/data/spam.csv
+
+# Ignore repository_structure.md
+docs/repository_structure.md

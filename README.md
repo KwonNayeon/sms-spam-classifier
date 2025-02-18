@@ -18,22 +18,19 @@ This project builds on prior work in text analysis (e.g., [Word Cloud Visualizat
 
 ## 📊 Project Structure
 ```tree
-/data-science-consulting-solutions
+/sms-spam-classifier
 │
-├── README.md                    # Project overview and basic information
-├── LICENSE                      # License file for the project
-├── requirements.txt             # Python package dependencies
-├── vs_code_setup.md            # VS Code setup guide
-├── notebooks/                   # Jupyter notebooks
-│   ├── 01_exploratory_analysis/# Exploratory data analysis
-│   ├── 02_modeling/            # Model building and training
-│   └── 03_evaluation/          # Model evaluation
-├── src/                        # Source code
-│   ├── data/                   # Data
-│   ├── models/                 # ML models
-│   └── utils/                  # Utility functions
-├── tests/                      # Unit tests
-└── docs/                       # Documentation
+├── README.md                        # Project overview and documentation
+├── LICENSE                          # Project license file
+├── requirements.txt                 # Python dependencies
+├── vs_code_setup.md                # VS Code configuration guide
+├── notebooks/                       # Jupyter notebooks for analysis
+├── src/                            # Source code directory
+│   ├── data/                       # Data storage and processing
+│   ├── models/                     # Machine learning models
+│   └── utils/                      # Utility functions and helpers
+├── tests/                          # Unit tests
+└── docs/                           # Project documentation
 ```
 
 ## 🚧 Current Progress
