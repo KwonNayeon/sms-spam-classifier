@@ -37,16 +37,16 @@ This project builds on prior work in text analysis (e.g., [Word Cloud Visualizat
 - Implemented initial baseline models using different approaches:
   - Count Vectorizer + Logistic Regression
   - TF-IDF + Random Forest
-- Conducted comprehensive EDA including:
-  - Text complexity analysis
-  - Word patterns visualization
-  - Sentence structure analysis
+- Enhanced Exploratory Data Analysis (EDA) focusing on:
+  - Message length distribution analysis
+  - Text feature analysis (word count, special characters, capitals ratio, etc.)
+  - Word frequency visualization and word clouds
 - Basic text preprocessing and model evaluation completed
 
 ## 📝 Next Steps
 1. Model Performance Improvement
 2. Code Structure Enhancement
-3. EDA Expansion
+3. Further EDA and Feature Engineering
 
 ## 📁 Dataset
 - Using the UCI SMS Spam Collection Dataset from Kaggle
