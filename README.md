@@ -35,9 +35,7 @@ This project builds on prior work in text analysis (e.g., [Word Cloud Visualizat
 ├── LICENSE                          # Project license file
 ├── requirements.txt                 # Python dependencies
 ├── notebooks/                       # Jupyter notebooks for analysis
-├── src/                            # Source code directory
-│   ├── data/                       # Dataset
-│   └── models/                     # Machine learning models
+├── data/                            # Dataset
 ├── tests/                          # Unit tests
 └── docs/                           # Project documentation
 ```
