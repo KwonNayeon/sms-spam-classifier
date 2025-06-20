@@ -1,3 +1,5 @@
+![Thumbnail](assets/thumbnail.jpg)
+
 # SMS Spam Detection Project
 
 Part of my data science portfolio - Building a machine learning system for binary classification of SMS messages.
@@ -37,6 +39,7 @@ This project builds on prior work in text analysis (e.g., [Word Cloud Visualizat
 ├── notebooks/                       # Jupyter notebooks for analysis
 ├── data/                            # Dataset
 ├── tests/                          # Unit tests
+├── assets/                         # Images
 └── docs/                           # Project documentation
 ```
 
